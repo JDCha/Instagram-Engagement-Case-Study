@@ -2,7 +2,7 @@
 
 Is a Picture Worth a Thousand Words?
 
-![alt text](https://github.com/snithin13/Instagram-Image-Analysis/blob/master/Images/100M_CelebrationPanda%2Bcopy.jpg)
+![alt text](https://github.com/KaranPalsani/Instagram-Engagement-Case-Study/blob/master/Images/100M_CelebrationPanda%2Bcopy.jpg)
 
 **Image Analytics on National Geographic's (natgeo) instagram page**
 
@@ -30,13 +30,13 @@ Is a Picture Worth a Thousand Words?
 * Ran a logistic regression with Engagement (binary) as the dependent variable, and the image labels as independent variables. Obtained an accuracy of 78%. Further, using both caption and labels, we get an improved accuracy of 82%.
 * Ran LDA using the bag of words model. Identified number of topics s 4 to be ideal. Obtained the following results:
 
-![alt text](https://github.com/snithin13/Instagram-Image-Analysis/blob/master/Images/insta_lda.JPG)
+![alt text](https://github.com/KaranPalsani/Instagram-Engagement-Case-Study/blob/master/Images/insta_lda.JPG)
 
-![alt text](https://github.com/snithin13/Instagram-Image-Analysis/blob/master/Images/insta_top10_lda.JPG "Top-10 words loaded for each topic")
+![alt text](https://github.com/KaranPalsani/Instagram-Engagement-Case-Study/blob/master/Images/insta_top10_lda.JPG "Top-10 words loaded for each topic")
 
 * To measure engagement across different topics, we took the quartiles with highest and lowest engagement scores and measured the differences in the average topic weights of pictures across the two quartiles. Below are the results:
 
-![alt text](https://github.com/snithin13/Instagram-Image-Analysis/blob/master/Images/insta_lda_engagement.JPG)
+![alt text](https://github.com/KaranPalsani/Instagram-Engagement-Case-Study/blob/master/Images/insta_lda_engagement.JPG)
 
 ## Inference and Advice:
 
