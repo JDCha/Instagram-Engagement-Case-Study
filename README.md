@@ -46,6 +46,3 @@ The top ten key words associated with the topic which generated the highest enga
 
 Currently, engagement can be successfully predicted by the content of the captions, suggesting their importance. However, no additional information is gained by including both the photo labels and the captions. This seems to indicate that National Geographic is typically reiterating the content in the photo again in the caption. The company could try some A/B Testing with captions that include other insights related to the picture without reiterating the photo’s content to see if there is an impact on engagement. However, this should be considered a secondary priority, as the effects on engagement are uncertain.
 
-## Code:
-
-https://github.com/snithin13/Instagram-Image-Analysis/blob/master/Instagram%20Natgeo%20Analysis%20Final.ipynb
